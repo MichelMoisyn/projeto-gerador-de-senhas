@@ -1,2 +1,2 @@
-# projeto-gerador-de-senhas
-Gerador de senha | JS
+#projeto-lampada
+Projeto de página web com uma lampada que acende, apaga e quebra quando clicado duas vezes sobre ela.
